@@ -1,0 +1,6 @@
+{
+  "role": "Junior Backend Java",
+  "required": ["java", "spring boot", "rest", "sql", "git"],
+  "important": ["docker", "postgresql", "jpa", "hibernate"],
+  "bonus": ["cloud", "ci/cd"]
+}
